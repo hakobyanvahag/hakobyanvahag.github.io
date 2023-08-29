@@ -42,7 +42,11 @@ body{
 } */
 .main-text-ul1{
     display: flex;
+    padding-left: 130px;
+    padding-top: 40px;
 }
 .main-text-ul2{
     display: flex;
+    padding-left: 134px;
+    padding-top: 10px;
 }
