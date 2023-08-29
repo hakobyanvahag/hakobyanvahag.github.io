@@ -36,10 +36,6 @@ body{
 .main--text{
     display: inline;
 }
-/* .code-png{
-    margin-left: 100px;
-    margin-top: 50px;
-} */
 .main-text-ul1{
     display: flex;
     padding-left: 130px;
@@ -49,4 +45,8 @@ body{
     display: flex;
     padding-left: 134px;
     padding-top: 10px;
+}
+.web-site-icon{
+    display: flex;
+    padding:
 }
