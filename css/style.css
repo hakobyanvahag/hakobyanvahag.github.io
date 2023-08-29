@@ -48,5 +48,6 @@ body{
 }
 .web-site-icon{
     display: flex;
-    /* padding: 0px, 25px; */
+    padding-left: 130px;
+    padding-top: 140px;
 }
